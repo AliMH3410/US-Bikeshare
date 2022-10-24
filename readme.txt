@@ -1,4 +1,10 @@
-https://www.geeksforgeeks.org/python-pandas-dataframe-mode/
-https://tutorial.eyehunts.com/python/python-if-break-example-code/#:~:text=Simple%20example%20code.%20Python%20break%20for%20loop%20Using,%27%20%2B%20str%20%28count%29%29%20print%20%28%27Out%20of%20loop%27%29
-https://pandas.pydata.org/docs/reference/api/pandas.DatetimeIndex.month.html
+Download the CSV files for the three cities from https://www.motivateco.com/ to run the cod succefully.
+helpful sites:
 https://pandas.pydata.org/pandas-docs/stable/reference/frame.html#dataframe
+https://pandas.pydata.org/pandas-docs/stable/
+Getting started — pandas 1.5.1 documentation (pydata.org)
+https://pandas.pydata.org/pandas-docs/stable/reference/series.html#reindexing-selection-label-manipulation
+https://pandas.pydata.org/pandas-docs/stable/reference/series.html#indexing-iteration
+https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#intro-to-data-structures
+https://pandas.pydata.org/pandas-docs/stable/reference/frame.html#dataframe
+
